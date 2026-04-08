@@ -129,14 +129,6 @@ src/
 
 ---
 
-## ⚡ Cài đặt & chạy project
-
-### 1. Clone project
-
-```bash
-git clone https://github.com/Hoanganhthu1301/WebBanXeJS.git
-```
-
 ---
 
 ### 2. Backend
